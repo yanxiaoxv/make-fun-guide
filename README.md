@@ -12,8 +12,8 @@ This guide walks you from zero to a submitted first entry: account, wallet, kit,
 claiming the money. Nothing here needs you to be a crypto person or a professional developer. You steer; your agent
 does the typing.
 
-> **Start here:** [Create your free make.fun account](https://make.fun/r/tf4ntvwe) — it takes about a minute, costs
-> nothing, and this link carries my referral code (`tf4ntvwe`), so the house knows this guide sent you.
+> **Start here:** [Create your free make.fun account](https://make.fun/r/5g2h0w0s) — it takes about a minute, costs
+> nothing, and this link carries my referral code (`5g2h0w0s`), so the house knows this guide sent you.
 
 ## Contents
 
@@ -77,7 +77,7 @@ Four ideas make it different from a normal hackathon:
 
 ## Step 1 — Create your account and link the two things that matter
 
-1. Go to **[make.fun/r/tf4ntvwe](https://make.fun/r/tf4ntvwe)** and choose **Sign in** (top right).
+1. Go to **[make.fun/r/5g2h0w0s](https://make.fun/r/5g2h0w0s)** and choose **Sign in** (top right).
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet is just a signature —
    no transaction, no fee.
 3. Click your avatar → **Profile** and set a username, picture and bio. This is the identity your entries appear
@@ -323,4 +323,4 @@ the fix. Your latest valid submission is the one that counts.
 
 ---
 
-<sub>New to make.fun? Sign up through my referral link — [make.fun/r/tf4ntvwe](https://make.fun/r/tf4ntvwe) · code `tf4ntvwe` — and then pass your own link on.</sub>
+<sub>New to make.fun? Sign up through my referral link — [make.fun/r/5g2h0w0s](https://make.fun/r/5g2h0w0s) · code `5g2h0w0s` — and then pass your own link on.</sub>
